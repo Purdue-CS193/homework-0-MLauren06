@@ -1,3 +1,14 @@
+# Lauren's First CS193 Homework
+
+-Class is taught by students
+-funny pictures during lecture
+-only meeting once per week (ish)
+-focusing on things ive already started needing in other classes
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
